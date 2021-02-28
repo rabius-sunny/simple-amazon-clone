@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-amazon-clone/static/css/main.b9a78b56.chunk.css",
+    "main.js": "/simple-amazon-clone/static/js/main.31042a98.chunk.js",
+    "main.js.map": "/simple-amazon-clone/static/js/main.31042a98.chunk.js.map",
+    "runtime-main.js": "/simple-amazon-clone/static/js/runtime-main.13dbfaf8.js",
+    "runtime-main.js.map": "/simple-amazon-clone/static/js/runtime-main.13dbfaf8.js.map",
+    "static/js/2.2c961d1a.chunk.js": "/simple-amazon-clone/static/js/2.2c961d1a.chunk.js",
+    "static/js/2.2c961d1a.chunk.js.map": "/simple-amazon-clone/static/js/2.2c961d1a.chunk.js.map",
+    "static/js/3.e7c0d7ee.chunk.js": "/simple-amazon-clone/static/js/3.e7c0d7ee.chunk.js",
+    "static/js/3.e7c0d7ee.chunk.js.map": "/simple-amazon-clone/static/js/3.e7c0d7ee.chunk.js.map",
+    "index.html": "/simple-amazon-clone/index.html",
+    "static/css/main.b9a78b56.chunk.css.map": "/simple-amazon-clone/static/css/main.b9a78b56.chunk.css.map",
+    "static/js/2.2c961d1a.chunk.js.LICENSE.txt": "/simple-amazon-clone/static/js/2.2c961d1a.chunk.js.LICENSE.txt",
+    "static/media/logo.0dd9a510.png": "/simple-amazon-clone/static/media/logo.0dd9a510.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13dbfaf8.js",
+    "static/js/2.2c961d1a.chunk.js",
+    "static/css/main.b9a78b56.chunk.css",
+    "static/js/main.31042a98.chunk.js"
+  ]
+}
