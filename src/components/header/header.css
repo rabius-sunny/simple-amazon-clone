@@ -1,0 +1,25 @@
+
+.header img {
+    height: 80px;
+}
+.header nav{
+    line-height: 80px;
+    text-align: start;
+    font-size: 20px;
+    padding-left: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 30%;
+    border-bottom: 4px solid goldenrod;
+    margin-bottom: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+    margin-right: 20px;
+    padding: 5px;
+}
+nav a:hover {
+    color: goldenrod;
+}
